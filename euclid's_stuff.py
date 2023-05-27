@@ -13,4 +13,3 @@ def gcd(num1,num2):
         return gcd(num2,num1)
 
 print(gcd(500,30))
-        
